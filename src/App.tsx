@@ -47,7 +47,7 @@ function App() {
                         modelArn: MODEL_ID,
                         retrievalConfiguration: {
                             vectorSearchConfiguration: {
-                                numberOfResults: 5,
+                                numberOfResults: 11,
                             },
                         },
                     },
